@@ -19,22 +19,19 @@ body {
     color: #ffffff;
 }
 
-/*****took out the .header tags*****/
 /*changes h1 font size*/
-h1 {
+.header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/*****took out the .header h1 tags******/
 /*changes color of the "seo" in hori"seo"n*/
-.seo {
+.header h1 .seo {
     color: #d9dcd6;
 }
 
-/******took out the .header tags******/
 /*styles navigation links so they are in the middle and to the right of header*/
-nav {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -42,14 +39,12 @@ nav {
     font-size: 20px;
 }
 
-/*****took out the .header nav tags******/
-ul {
+.header nav ul {
     list-style-type: none;
 }
 
-/******took out the .header nav ul tags******/
 /*makes nav links apear side-by-side*/
-li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -65,7 +60,6 @@ p {
     font-size: 16px;
 }
 
-/*****should this image have an alt tag or should it be on the html page*****/
 /*this is for the background image between the header and main content*/
 .hero {
     height: 800px;
@@ -173,6 +167,6 @@ h3 {
 }
 
 /*styles the heading in the footer*/
-h4 {
+h2 {
     font-size: 20px;
 }
