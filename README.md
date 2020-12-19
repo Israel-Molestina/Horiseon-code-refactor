@@ -1,4 +1,5 @@
 # Horiseon Code Refactor
+[![top-language](https://img.shields.io/github/languages/top/Israel-Molestina/Horiseon-code-refactor)
 
 ## Task
 As a developer, I've been tasked with refactoring Horiseon's website's code 
