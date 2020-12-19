@@ -9,9 +9,11 @@
     *included alt attributes to image elements
     *corrected the structure of HTML elements so they follow a logical structure
     *added a descriptive title
+        * test
     *made sure all links work properly
 
 ### For the CSS file I've:
     *consolidated CSS selectors and properties
-    *organized CSS file to follow semantic structure
-    *properly commented the CSS file
+    * organized CSS file to follow semantic structure
+    * properly commented the CSS file
+    1. test
