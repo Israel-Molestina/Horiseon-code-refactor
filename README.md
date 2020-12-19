@@ -3,7 +3,8 @@
 
 ## Task
 As a developer, I've been tasked with refactoring Horiseon's website's code 
-so that it meets accessibility standards. I've made changes to the HTML and CSS files
+so that it meets accessibility standards. To accomplish this, I've made 
+changes to the HTML and CSS files.
 
 ### For the HTML file I've:
 * implemented Semantic HTML elements
