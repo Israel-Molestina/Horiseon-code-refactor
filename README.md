@@ -2,7 +2,7 @@
 
 ## Task
 As a developer, I've been tasked with refactoring Horiseon's website's code 
-so that it meets accesibility standards. I've made changes to the HTML and CSS files
+so that it meets accessibility standards. I've made changes to the HTML and CSS files
 
 ### For the HTML file I've:
 * implemented Semantic HTML elements
@@ -16,8 +16,8 @@ so that it meets accesibility standards. I've made changes to the HTML and CSS f
 * organized CSS file to follow semantic structure
 * properly commented the CSS file
 
-
 #### Below is a link to the finished product along with a screengrab of the full Webpage
 [Horiseon-webpage](https://israel-molestina.github.io/Horiseon-code-refactor/)
 
 ![full-screenshot-of-the-Horiseon-web-page](./assets/images/horiseon-full-web-page.png)
+
