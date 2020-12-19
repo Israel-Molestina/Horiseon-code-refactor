@@ -16,4 +16,4 @@ so that it meets accesibility standards. I've made changes to the HTML and CSS f
 * organized CSS file to follow semantic structure
 * properly commented the CSS file
 
-![full screenshot of the Horiseon web page] (assets/images/Horiseon Full Web Page.png)
+![full-screenshot-of-the-Horiseon-web-page](./assets/images/horiseon-full-web-page.png)
