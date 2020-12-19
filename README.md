@@ -1,8 +1,8 @@
 # Horiseon Code Refactor
 
 ## Task
-    As a developer, I've been tasked with refactoring Horiseon's website's code 
-    so that it meets accesibility standards. I've made changes to the HTML and CSS files
+As a developer, I've been tasked with refactoring Horiseon's website's code 
+so that it meets accesibility standards. I've made changes to the HTML and CSS files
 
 ### For the HTML file I've:
 * implemented Semantic HTML elements
@@ -15,3 +15,5 @@
 * consolidated CSS selectors and properties
 * organized CSS file to follow semantic structure
 * properly commented the CSS file
+
+![full screenshot of the Horiseon web page] (assets/images/Horiseon Full Web Page.png)
