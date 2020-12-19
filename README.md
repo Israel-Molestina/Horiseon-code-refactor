@@ -19,6 +19,5 @@ so that it meets accesibility standards. I've made changes to the HTML and CSS f
 
 #### Below is a link to the finished product along with a screengrab of the full Webpage
 <a href="https://israel-molestina.github.io/Horiseon-code-refactor/" target="_blank">Horiseon Webpage</a>
-<br>
 
 ![full-screenshot-of-the-Horiseon-web-page](./assets/images/horiseon-full-web-page.png)
